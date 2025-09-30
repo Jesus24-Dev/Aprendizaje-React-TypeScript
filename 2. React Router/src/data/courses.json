@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "curso 1",
+        "description": "descripcion del curso 1",
+        "teacher": "profesor 1"
+    },
+    {
+        "id": 2,
+        "title": "curso 2",
+        "description": "descripcion del curso 2",
+        "teacher": "profesor 2"
+    },
+    {
+        "id": 3,
+        "title": "curso 3",
+        "description": "descripcion del curso 3",
+        "teacher": "profesor 3"
+    },
+    {
+        "id": 4,
+        "title": "curso 4",
+        "description": "descripcion del curso 4",
+        "teacher": "profesor 4"
+    },
+    {
+        "id": 5,
+        "title": "curso 5",
+        "description": "descripcion del curso 5",
+        "teacher": "profesor 5"
+    }
+]
